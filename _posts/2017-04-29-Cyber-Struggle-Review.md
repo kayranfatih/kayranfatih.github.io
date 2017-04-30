@@ -16,7 +16,7 @@ Eğitimin ardından uzunca bir süre geçtikten sonra (yaklaşık 5 ay) eğitim 
 Bu arada eğitimi almak için paranızın olması yeter şart değil, eğitim öncesi sizle yapılan online/yüzyüze mülakat sonucu o dönem için uygun bir aday olup olmadığınıza bakılıyor ve başvurunuz bu durumlar gözetilerek değenlendiriliyor.
 
 Kadro oluştuktan sonra ilk görev takım ismi ve logosu belirlemek oluyor ve Ece'den honeybadgers(bal porsukları) önerisi makul bulunuyor. Sonuç olarak aşağıdaki logo ortaya çıkıyor.
-![image](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/honeyBadgersLogo.jpg)
+![image](kayranfatih.github.io/assets/img/honeyBadgersLogo.png)
 
 ---
 
