@@ -5,8 +5,6 @@ categories:
 - blog, Cyber Struggle
 ---
 
-## Cyber Struggle Ranger Review
-
 Eğitimin ardından uzunca bir süre geçtikten sonra (yaklaşık 5 ay) eğitim süreci / eğitimden sonraki süreç hakkında bir yazı yazmanın vaktinin geldiğini düşünerek bir review hazırlamaya karar verdim.
 
 ---
@@ -32,6 +30,8 @@ Tabi ilk pizza partisini unutmak olmaz.
 İlk gün izlediğimiz motivasyon videosunu da unutamayız tabi.
 [Neden Düşeriz ?](https://www.youtube.com/watch?v=tjzJRSKuWw8)
 
+---
+
 ### Sürtünmeler
 
 Eğitim başından itibaren takım halinde hareket etmeye / manevra almaya odaklanmış bir şekilde kurgulandığından dolayı, takımda yaşanılan her problemin bir an önce çözülmesi gerekiyor. Çözülmediğinde olumsuz bir not olarak hanenize yazıldığı gibi takımın motivasyonunu / birliğini olumsuz etkiliyor. Zaten eğitim süreci bireysel olarak sürdürülmeye pek müsait değil. Incidentlar sebebiyle gece nöbeti bile bireysellikten çok uzak. Takım olmayı gerektiriyor.
@@ -40,9 +40,13 @@ Tabi hiç tanımadığın 10 kişiyle bir anda takım olabiliyor musun? Tabi ki 
 
 Bu sürtünmelerin içinde takım arkadaşlarının eksilmeside yer alıyor tabi. Takım olmaya bu kadar muhtaç iken ilk ayrılığı 2. haftada yaşamamızda ayrı bir ironi tabi. Fakat bu ayrılık olumsuz etkilemek bir yana daha iyi bir takım olmamızı sağladı.
 
+---
+
 ### Ödevler / Incidentlar
 
 Hafta içi iş / hafta sonu eğitim yetmezmiş gibi(!) bir de sürekli ödev ve bir gece ansızın gelebilen incidentlar 10 haftayı farklı bir kafada yaşamanızı sağlıyor. Tempo sürekli zirvelerde geziyor ve eğitim sonunda bu temponun bir rutin halini aldığınızı görüyorsunuz. Incident kaçırmak, ödevi yeteri kalitede yapmamak(ödev yapmamaktan bahsetmiyorum) uyarı olarak hanenize yazılıyor ve yeterli uyarıda eğitimden şutlanmanızı sağlıyor.
+
+---
 
 ### Saha Uygulamaları / SAT Eğitimleri
 
@@ -54,11 +58,15 @@ Sat öncesi gayet mutlu halimiz, Ece'nin güzel güzel güldüğüne bakmayın s
 Sat sonrası ise 10 saat süren ıslaklığın yorgulunluğun ardından, sayımız 11'den 7'ye düştüğünden takviye olarak 1. dönemden Talha'yı da aldık. 
 ![alt](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/satSonrasi.jpg)
 
+---
+
 ### Cehennem Haftası
 
 En yoğun ve yorucu hafta diyebilirim. Yukarıdaki fotoğraflarda cehennem haftasına ait olan Sat uygulamasından. Bu haftada olay incelemesi, pentest raporlarıyla boğuşmakla birlikte Sat uygulamasıyla finali yaptık.
 
 Raporları gönderdirkten sonra, 11 kişi olarak başladığımız sürecin sonunda 6 kişi olarak, Ranger brövelerimizi kazandık ve ilk Ranger'lar olarak mezun olduk. 2. sınav hakkını kullanan ilk dönemdeki 2 arkadaşımız(Sat eğitimine tekrardan katılmadılar) da Ranger oldu ve 2. dönemi 8 rangerla kapattık.
+
+---
 
 ### Eğitim Sonrası
 
@@ -71,8 +79,11 @@ Tabi klasik eğitimler gibi eğitim bitince herşey bitmesi bir yana birçok şe
 Ayrıca eğitim hakkında detaylı bilgi için aşağıdaki yazılara da göz atabilirsiniz
 
 [Aydın Yakar - Cyber Struggle Eğitimi Hakkında](http://www.aydinyakar.com/2016/06/cyber-struggle-egitimi-hakknda.html)
+
 [Cyber Struggle ve Eğitim Modeli](https://cyberstruggle.org/cyber-struggle-ve-egitim-modeli/)
+
 [Cyber Struggle Ranger Kursiyer GÖrüşleri](https://cyberstruggle.org/gorusler/)
+
 
 
 
