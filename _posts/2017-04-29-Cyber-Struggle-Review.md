@@ -12,6 +12,7 @@ Eğitimin ardından uzunca bir süre geçtikten sonra (yaklaşık 5 ay) eğitim 
 ## Eğitim Öncesi
 
 Çalıştığım firma (bu cuma itibariyle eski firmam oldu gerçi) güvenlik konusunda CEH vb. bir formatta eğitime göndermek istediğinde, 3-5 günlük 101 eğitimlerinin herhangi bir faydasını göremeyeceğimden dolayı, Türkiye'de bulunan eğitimleri araştırırken Cyber Struggle ile karşılaştım ve yöneticime bu eğitime katılmak istediğimi söyledim. Tabi ortada CS hakkında kurumsal referans, geçmiş olmadığından dolayı ilk aşamada bu eğitime soğuk bakıldı. Israrlarım sonucunda yöneticim eğitimin kurucusu Kubilay Hocayla temasa geçtiğinde Kubilay Hoca'nın marketing amaçlı, bizim eğitimimiz şöyle süper vb. bir diyaloğa girmeden eğitimi anlattıktan sonra "Eğitim süreci zor ve yıpratıcı, çalışanınızı göndermeden önce bunları düşününüz" sözlerinin ardından başvuru yapmama onay çıktı ve eğitimin Eylül ayında başlayan 2. dönemine yaptığım başvuru kabul edildi. 
+{: style="text-align: justify;"}
 
 Bu arada eğitimi almak için paranızın olması yeter şart değil, eğitim öncesi sizle yapılan online/yüzyüze mülakat sonucu o dönem için uygun bir aday olup olmadığınıza bakılıyor ve başvurunuz bu durumlar gözetilerek değenlendiriliyor.
 
