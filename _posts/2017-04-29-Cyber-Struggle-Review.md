@@ -2,7 +2,7 @@
 layout: post
 title: Cyber Struggle Ranger Review
 categories:
-- blog, Cyber Struggle
+- blog
 ---
 
 Eğitimin ardından uzunca bir süre geçtikten sonra (yaklaşık 5 ay) eğitim süreci / eğitimden sonraki süreç hakkında bir yazı yazmanın vaktinin geldiğini düşünerek bir review hazırlamaya karar verdim.
