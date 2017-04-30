@@ -59,7 +59,7 @@ Hafta içi iş / hafta sonu eğitim yetmezmiş gibi(!) bir de sürekli ödev ve 
 
 ## Saha Uygulamaları / SAT Eğitimleri
 
-Eğitim boyunca 2 ayrı SAT uygulaması bulunuyor ve 2 uygulamada gayet zor. Çoğu kişi "Siber güvenlik eğitimi değil mi? Ne işi var silahlı adamların amq" yaklaşımından öte bir vizyonla yaklaşamadığı bu eğitimlerin temel sebebi takım olarak hareket etmenin yanında psikolojik / fiziksel limitlerden kurtulmak aslında. Kendi açımdan düşündüğümde normalde soğuk sevmeme rağmen 10 saat boyunca ıslak ve Kasım ayı soğuğunda it gibi titrememe rağmen takımımı geride bırakmamak için elimden geleni yapmak olarak yorumlayabilirim. Hatta o kadar üşümüştümki ısınmak için denize girmiştim :)(Deniz çok sıcak gelmişti tabi).
+Eğitim boyunca 2 ayrı SAT uygulaması bulunuyor ve 2 uygulamada gayet zor. Çoğu kişi "Siber güvenlik eğitimi değil mi? Ne işi var silahlı adamların amq" yaklaşımından öte bir vizyonla yaklaşamadığı bu eğitimlerin temel sebebi takım olarak hareket etmenin yanında psikolojik / fiziksel limitlerden kurtulmak aslında. Kendi açımdan düşündüğümde, normalde soğuk sevmeyen biri olarak, 10 saat boyunca ıslak kalmama ve Kasım ayı soğuğunda it gibi titrememe rağmen takımımı geride bırakmamak için elimden geleni yapmak olarak yorumlayabilirim. Hatta o kadar üşümüştüm ki ısınmak için denize girmiştim :)(Deniz çok sıcak gelmişti tabi).
 {: style="text-align: justify;"}
 
 Sat öncesi gayet mutlu halimiz, Ece'nin güzel güzel güldüğüne bakmayın son gülüşü oldu :). Farkettiğiniz gibi sayımızda gayet azalmış.
@@ -72,7 +72,7 @@ Sat sonrası ise 10 saat süren ıslaklığın yorgulunluğun ardından, sayım�
 
 ## Cehennem Haftası
 
-En yoğun ve yorucu hafta diyebilirim. Yukarıdaki fotoğraflarda cehennem haftasına ait olan Sat uygulamasından. Bu haftada olay incelemesi, pentest raporlarıyla boğuşmakla birlikte Sat uygulamasıyla finali yaptık.
+En yoğun ve yorucu hafta diyebilirim. Yukarıdaki fotoğraflar cehennem haftasına ait olan Sat uygulamasından. Bu haftada olay incelemesi, pentest raporlarıyla boğuşmakla birlikte Sat uygulamasıyla finali yaptık.
 {: style="text-align: justify;"}
 
 Raporları gönderdirkten sonra, 11 kişi olarak başladığımız sürecin sonunda 6 kişi olarak, Ranger brövelerimizi kazandık ve ilk Ranger'lar olarak mezun olduk. 2. sınav hakkını kullanan ilk dönemdeki 2 arkadaşımız(Sat eğitimine tekrardan katılmadılar) da Ranger oldu ve 2. dönemi 8 rangerla kapattık.
