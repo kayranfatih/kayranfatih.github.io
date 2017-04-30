@@ -2,3 +2,8 @@
 url: http://fatihkayran.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
