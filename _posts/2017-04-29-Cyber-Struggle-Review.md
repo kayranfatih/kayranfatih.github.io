@@ -9,18 +9,18 @@ Eğitimin ardından uzunca bir süre geçtikten sonra (yaklaşık 5 ay) eğitim 
 
 ---
 
-### Eğitim Öncesi
+## Eğitim Öncesi
 
 Çalıştığım firma (bu cuma itibariyle eski firmam oldu gerçi) güvenlik konusunda CEH vb. bir formatta eğitime göndermek istediğinde, 3-5 günlük 101 eğitimlerinin herhangi bir faydasını göremeyeceğimden dolayı, Türkiye'de bulunan eğitimleri araştırırken Cyber Struggle ile karşılaştım ve yöneticime bu eğitime katılmak istediğimi söyledim. Tabi ortada CS hakkında kurumsal referans, geçmiş olmadığından dolayı ilk aşamada bu eğitime soğuk bakıldı. Israrlarım sonucunda yöneticim eğitimin kurucusu Kubilay Hocayla temasa geçtiğinde Kubilay Hoca'nın marketing amaçlı, bizim eğitimimiz şöyle süper vb. bir diyaloğa girmeden eğitimi anlattıktan sonra "Eğitim süreci zor ve yıpratıcı, çalışanınızı göndermeden önce bunları düşününüz" sözlerinin ardından başvuru yapmama onay çıktı ve eğitimin Eylül ayında başlayan 2. dönemine yaptığım başvuru kabul edildi. 
 
 Bu arada eğitimi almak için paranızın olması yeter şart değil, eğitim öncesi sizle yapılan online/yüzyüze mülakat sonucu o dönem için uygun bir aday olup olmadığınıza bakılıyor ve başvurunuz bu durumlar gözetilerek değenlendiriliyor.
 
 Kadro oluştuktan sonra ilk görev takım ismi ve logosu belirlemek oluyor ve Ece'den honeybadgers(bal porsukları) önerisi makul bulunuyor. Sonuç olarak aşağıdaki logo ortaya çıkıyor.
-![alt](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/honeyBadgersLogo.jpg)
+![image](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/honeyBadgersLogo.jpg)
 
 ---
 
-### İlk Temas
+## İlk Temas
 
 2016 Eylül ayında eğitime, sınıfa bağırarak giren bir manyağın(Kubilay) ardından, 11 kişi olarak başlamış olduk. Tanışma faslının sonucunda 2. dönem olduğumuzdan dolayı 1. dönemdeki Ranger'ları sorduğumuzda ortada henüz herhangi bir Ranger olmadığını öğrenmiş olduk(Nasıl olur mk!). Herkesin aklındaki tek soru "Ranger nedir, nasıl olunur?" olmuştu bir anda. Eğitim bittikten sonra konuştuğumuzda bazılarımız ilk günde dolandırıldıklarını düşünmüş hatta :).
 
@@ -32,7 +32,7 @@ Tabi ilk pizza partisini unutmak olmaz.
 
 ---
 
-### Sürtünmeler
+## Sürtünmeler
 
 Eğitim başından itibaren takım halinde hareket etmeye / manevra almaya odaklanmış bir şekilde kurgulandığından dolayı, takımda yaşanılan her problemin bir an önce çözülmesi gerekiyor. Çözülmediğinde olumsuz bir not olarak hanenize yazıldığı gibi takımın motivasyonunu / birliğini olumsuz etkiliyor. Zaten eğitim süreci bireysel olarak sürdürülmeye pek müsait değil. Incidentlar sebebiyle gece nöbeti bile bireysellikten çok uzak. Takım olmayı gerektiriyor.
 
@@ -42,13 +42,13 @@ Bu sürtünmelerin içinde takım arkadaşlarının eksilmeside yer alıyor tabi
 
 ---
 
-### Ödevler / Incidentlar
+## Ödevler / Incidentlar
 
 Hafta içi iş / hafta sonu eğitim yetmezmiş gibi(!) bir de sürekli ödev ve bir gece ansızın gelebilen incidentlar 10 haftayı farklı bir kafada yaşamanızı sağlıyor. Tempo sürekli zirvelerde geziyor ve eğitim sonunda bu temponun bir rutin halini aldığınızı görüyorsunuz. Incident kaçırmak, ödevi yeteri kalitede yapmamak(ödev yapmamaktan bahsetmiyorum) uyarı olarak hanenize yazılıyor ve yeterli uyarıda eğitimden şutlanmanızı sağlıyor.
 
 ---
 
-### Saha Uygulamaları / SAT Eğitimleri
+## Saha Uygulamaları / SAT Eğitimleri
 
 Eğitim boyunca 2 ayrı SAT uygulaması bulunuyor ve 2 uygulamada gayet zor. Çoğu kişi "Siber güvenlik eğitimi değil mi? Ne işi var silahlı adamların amq" yaklaşımından öte bir vizyonla yaklaşamadığı bu eğitimlerin temel sebebi takım olarak hareket etmenin yanında psikolojik / fiziksel limitlerden kurtulmak aslında. Kendi açımdan düşündüğümde normalde soğuk sevmeme rağmen 10 saat boyunca ıslak ve Kasım ayı soğuğunda it gibi titrememe rağmen takımımı geride bırakmamak için elimden geleni yapmak olarak yorumlayabilirim. Hatta o kadar üşümüştümki ısınmak için denize girmiştim :)(Deniz çok sıcak gelmişti tabi).
 
@@ -60,7 +60,7 @@ Sat sonrası ise 10 saat süren ıslaklığın yorgulunluğun ardından, sayım�
 
 ---
 
-### Cehennem Haftası
+## Cehennem Haftası
 
 En yoğun ve yorucu hafta diyebilirim. Yukarıdaki fotoğraflarda cehennem haftasına ait olan Sat uygulamasından. Bu haftada olay incelemesi, pentest raporlarıyla boğuşmakla birlikte Sat uygulamasıyla finali yaptık.
 
@@ -68,7 +68,7 @@ Raporları gönderdirkten sonra, 11 kişi olarak başladığımız sürecin sonu
 
 ---
 
-### Eğitim Sonrası
+## Eğitim Sonrası
 
 Tabi klasik eğitimler gibi eğitim bitince herşey bitmesi bir yana birçok şey yeni başlıyor. Uzun uzun örnekler vermek yerine [twitter](https://twitter.com/cyberstruggle) sayfasında bu gelişmelerden kolaylıkla haberdar olabilirsiniz. Tek vereceğim örnek 2. dönemde mezun olan 6 Ranger'dan 4'ü eğitim öncesi herhangi bir yerde çalışmazken eğitimin ardından kısa sürede büyük kurumlarda işe başladılar ve çalışan diğer 2 kişi(ben de dahil) daha büyük kurumlara geçtiler.
 
