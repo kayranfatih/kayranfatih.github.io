@@ -16,7 +16,7 @@ Eğitimin ardından uzunca bir süre geçtikten sonra (yaklaşık 5 ay) eğitim 
 Bu arada eğitimi almak için paranızın olması yeter şart değil, eğitim öncesi sizle yapılan online/yüzyüze mülakat sonucu o dönem için uygun bir aday olup olmadığınıza bakılıyor ve başvurunuz bu durumlar gözetilerek değenlendiriliyor.
 
 Kadro oluştuktan sonra ilk görev takım ismi ve logosu belirlemek oluyor ve Ece'den honeybadgers(bal porsukları) önerisi makul bulunuyor. Sonuç olarak aşağıdaki logo ortaya çıkıyor.
-![image](kayranfatih.github.io/assets/img/honeyBadgersLogo.png)
+![image](http://kayranfatih.github.io/assets/img/honeyBadgersLogo.png)
 
 ---
 
@@ -25,7 +25,7 @@ Kadro oluştuktan sonra ilk görev takım ismi ve logosu belirlemek oluyor ve Ec
 2016 Eylül ayında eğitime, sınıfa bağırarak giren bir manyağın(Kubilay) ardından, 11 kişi olarak başlamış olduk. Tanışma faslının sonucunda 2. dönem olduğumuzdan dolayı 1. dönemdeki Ranger'ları sorduğumuzda ortada henüz herhangi bir Ranger olmadığını öğrenmiş olduk(Nasıl olur mk!). Herkesin aklındaki tek soru "Ranger nedir, nasıl olunur?" olmuştu bir anda. Eğitim bittikten sonra konuştuğumuzda bazılarımız ilk günde dolandırıldıklarını düşünmüş hatta :).
 
 Tabi ilk pizza partisini unutmak olmaz. 
-![alt](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/pizzaPartisi.jpg "Pizza Partisi")
+![alt](http://kayranfatih.github.io/assets/img/pizzaPartisi.png)
 
 İlk gün izlediğimiz motivasyon videosunu da unutamayız tabi.
 [Neden Düşeriz ?](https://www.youtube.com/watch?v=tjzJRSKuWw8)
@@ -53,10 +53,10 @@ Hafta içi iş / hafta sonu eğitim yetmezmiş gibi(!) bir de sürekli ödev ve 
 Eğitim boyunca 2 ayrı SAT uygulaması bulunuyor ve 2 uygulamada gayet zor. Çoğu kişi "Siber güvenlik eğitimi değil mi? Ne işi var silahlı adamların amq" yaklaşımından öte bir vizyonla yaklaşamadığı bu eğitimlerin temel sebebi takım olarak hareket etmenin yanında psikolojik / fiziksel limitlerden kurtulmak aslında. Kendi açımdan düşündüğümde normalde soğuk sevmeme rağmen 10 saat boyunca ıslak ve Kasım ayı soğuğunda it gibi titrememe rağmen takımımı geride bırakmamak için elimden geleni yapmak olarak yorumlayabilirim. Hatta o kadar üşümüştümki ısınmak için denize girmiştim :)(Deniz çok sıcak gelmişti tabi).
 
 Sat öncesi gayet mutlu halimiz, Ece'nin güzel güzel güldüğüne bakmayın son gülüşü oldu :). Farkettiğiniz gibi sayımızda gayet azalmış.
-![alt](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/satOncesi.jpg)
+![alt](http://kayranfatih.github.io/assets/img/satOncesi.png)
 
 Sat sonrası ise 10 saat süren ıslaklığın yorgulunluğun ardından, sayımız 11'den 7'ye düştüğünden takviye olarak 1. dönemden Talha'yı da aldık. 
-![alt](https://github.com/kayranfatih/kayranfatih.github.io/blob/master/_images/satSonrasi.jpg)
+![alt](http://kayranfatih.github.io/assets/img/satSonrasi.png)
 
 ---
 
