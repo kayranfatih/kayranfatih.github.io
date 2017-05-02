@@ -48,6 +48,8 @@ Set-Cookie: NSC_xxx.nzofu.dpn_dt_efofnf_2013=ffffffffc3a0346345525d5f4f58455e445
 Sticky session cookieler ile yapılan yönlendirmeler loadbalancerın uygulama sunucularındaki yük kontrolünü sadece oturum başlangıç anında gerçekleştirmesine, yönlendirme işlemini bir kere yapmasına neden olmaktadır. Bir sunucunun çökmesinde sunucuya bağlı olan erişimin kesilmesine, persistent cookie kullanan(facebook gibi authenticate olduktan sonra sürekli hesabın açık kalması) uygulamalar için yük durumunun kontrolünün olmamasına neden olmaktadır.
 {: style="text-align: justify;"}
 
+---
+
 ## Citrix Netscaler Loadbalancer
 
 Sticky session cookilerin aynı zamanda encrypt edilmiş bir değerdir ve decrypt edilmesi mümkün olmaktadır. F5 ve Netscaler sticky cookieleri bu şekilde decrypt edilebilmekte ve loadbalancer arkasındaki web sunucularının iç IP adresleri deşifre edilebilmektedir. Github üzerinden erişebileceğiniz Netscaler Cookie Decryptor scripti ile örnek olarak yukarıda verilmiş netscaler cookiesini decrypt edilmiş hali aşağıdaki gibidir.(Domain bölümü sansürlenmiştir)
@@ -64,6 +66,8 @@ vServer Port=80
 
 Loadbalancer kullanılan bir sistemde best-practice olarak sticky cookie kullanılması uygun bulunmuyor fakat farklı sunuculara uygulamaların farklı modüllerini deploy eden yapılarda sticky cookie kullanımına mecbur kalınıyor. Uygulamayı kullanılan virtual IP bloklarına göre sunucular üzerinde aynı şekilde deploy edip, memcached gibi bir yaklaşım ile sticky cookie kullanımına gerek kalınmıyor. Sticky cookie kullanımının zorunlu olduğu durumlarda ise loadbalacerlarda cookielerin ek bir encryption methoduyla encrypt edilebilir. Encrpytion özelliği birçok loadbalancerda varsayılan olarak bulunmaktadır. Ayrıca sticky cookie'ler için varsayılan(Netscaler'da NSC_XXX...) isimler yerine farklı isimler kullanılabilir.
 {: style="text-align: justify;"}
+
+---
 
 ## Kaynakça
 
