@@ -15,14 +15,14 @@ Web sunucularının önünde konuşlandırılan loadbalancerlar, requestleri web
 
 ---
 
-##Citrix Netscaler Loadbalancer ve Client IP
+## Citrix Netscaler Loadbalancer ve Client IP
 
 F5 gibi loadbalancer konusunda kafaya oynayan Citrix firması tarafından geliştirilen Netscaler loadbalancerlarında XFF headerı kullanılarak yapılabileceği gibi custom bir headerın tanımlanması ile de gerçek client IP problemi aşılabilmektedir. Bu makalede Netscaler için custom headerın nasıl tanımlandığı anlatılmıştır. Header adı tanımlama aşamasında custom olarak verildiğinden -XFF gibi generic bir header değil- dolayı XFF’ten daha güvenli bir yöntem olarak görülmekte fakat headerın doğru tahmin edilebilme ihtimali ile IP spoof gerçekleştirilebilmektedir. Bu sorun -Mehmet İnce’nin bahsettiği gibi- gelen requestler arasından bu headerın loadbalancer üzerinden yazılan bir kuralla ayıklanması ve layer 3’ten aldığı IP adresini custom olarak tanımlanan headera basması ile aşılabilmektedir.
 {: style="text-align: justify;"}
 
 ---
 
-##Sabit Loadbalancer Oturum Cookieleri
+## Sabit Loadbalancer Oturum Cookieleri
 
 Loadbalancer kullanan sistemlerde karşılaşılan bir başka sorun ise web sunucusunda tutulan session değerlerinin akıbetinin ne olacağıdır. Clientlar bir uygulamada authentication sürecini atlattıktan sonra sunucu tarafında bir session tahsis edilir(aynı zamanda clienta bir cookie gönderilir). Şuanki durumda web sunucusunun tahsis ettiği cookie değeri o sunucuya özel olduğundan dolayı şu senaryo oluşabilir : Session değerine sahip web sunucusunun yükünün artmasından dolayı loadbalancer başka bir sunucuya yönlendirme yapabilir ve session değerinin kaybolmasına neden olabilir. Böyle bir durumla karşılaşan bir client authenticate olduğu bir uygulamadan bir anda login ekranına tekrardan düşecek ve kullanıcı deneyiminin(UX/User Experience) olumsuz etkilenmesine neden olacaktır.
 {: style="text-align: justify;"}
@@ -48,7 +48,7 @@ Set-Cookie: NSC_xxx.nzofu.dpn_dt_efofnf_2013=ffffffffc3a0346345525d5f4f58455e445
 Sticky session cookieler ile yapılan yönlendirmeler loadbalancerın uygulama sunucularındaki yük kontrolünü sadece oturum başlangıç anında gerçekleştirmesine, yönlendirme işlemini bir kere yapmasına neden olmaktadır. Bir sunucunun çökmesinde sunucuya bağlı olan erişimin kesilmesine, persistent cookie kullanan(facebook gibi authenticate olduktan sonra sürekli hesabın açık kalması) uygulamalar için yük durumunun kontrolünün olmamasına neden olmaktadır.
 {: style="text-align: justify;"}
 
-##Citrix Netscaler Loadbalancer
+## Citrix Netscaler Loadbalancer
 
 Sticky session cookilerin aynı zamanda encrypt edilmiş bir değerdir ve decrypt edilmesi mümkün olmaktadır. F5 ve Netscaler sticky cookieleri bu şekilde decrypt edilebilmekte ve loadbalancer arkasındaki web sunucularının iç IP adresleri deşifre edilebilmektedir. Github üzerinden erişebileceğiniz Netscaler Cookie Decryptor scripti ile örnek olarak yukarıda verilmiş netscaler cookiesini decrypt edilmiş hali aşağıdaki gibidir.(Domain bölümü sansürlenmiştir)
 {: style="text-align: justify;"}
@@ -60,12 +60,12 @@ vServer Port=80
 
 ---
 
-##Öneriler
+## Öneriler
 
 Loadbalancer kullanılan bir sistemde best-practice olarak sticky cookie kullanılması uygun bulunmuyor fakat farklı sunuculara uygulamaların farklı modüllerini deploy eden yapılarda sticky cookie kullanımına mecbur kalınıyor. Uygulamayı kullanılan virtual IP bloklarına göre sunucular üzerinde aynı şekilde deploy edip, memcached gibi bir yaklaşım ile sticky cookie kullanımına gerek kalınmıyor. Sticky cookie kullanımının zorunlu olduğu durumlarda ise loadbalacerlarda cookielerin ek bir encryption methoduyla encrypt edilebilir. Encrpytion özelliği birçok loadbalancerda varsayılan olarak bulunmaktadır. Ayrıca sticky cookie'ler için varsayılan(Netscaler'da NSC_XXX...) isimler yerine farklı isimler kullanılabilir.
 {: style="text-align: justify;"}
 
-##Kaynakça
+## Kaynakça
 
 [Mehmet İnce - Yük Dengeleyiciler ve Gerçek IP Adresi Karmaşası](https://www.mehmetince.net/yuk-dengeleyiciler-ve-gercek-ip-adresi-karmasasi/)
 
