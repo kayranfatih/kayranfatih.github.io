@@ -32,7 +32,7 @@ Kadro oluştuktan sonra ilk görev takım ismi ve logosu belirlemek oluyor ve Ec
 Tabi ilk pizza partisini unutmak olmaz.
 {% capture imagesrc %}$[![http://kayranfatih.github.io/assets/img/pizzaPartisi.png]!]{% endcapture %}
 {% capture imagetitle %}$[![Pizza]!]{% endcapture %}
-<a href="{{ imagesrc }}">{% picture $[![Preset_name]!] {{ imagesrc }} alt="{{ imagetitle }}" title="{{ imagetitle }}" %}</a>
+<a href="{{ imagesrc }}">{% picture $[![picture]!] {{ imagesrc }} alt="{{ imagetitle }}" title="{{ imagetitle }}" %}</a>
 {: .text-center}
 
 
