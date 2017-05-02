@@ -29,12 +29,7 @@ Kadro oluştuktan sonra ilk görev takım ismi ve logosu belirlemek oluyor ve Ec
 2016 Eylül ayında eğitime, sınıfa bağırarak giren bir manyağın(Kubilay) ardından, 11 kişi olarak başlamış olduk. Tanışma faslının sonucunda 2. dönem olduğumuzdan dolayı 1. dönemdeki Ranger'ları sorduğumuzda ortada henüz herhangi bir Ranger olmadığını öğrenmiş olduk(Nasıl olur mk!). Herkesin aklındaki tek soru "Ranger nedir, nasıl olunur?" olmuştu bir anda. Eğitim bittikten sonra konuştuğumuzda bazılarımız ilk günde dolandırıldıklarını düşünmüş hatta :).
 {: style="text-align: justify;"}
 
-Tabi ilk pizza partisini unutmak olmaz.
-{% capture imagesrc %}$[![http://kayranfatih.github.io/assets/img/pizzaPartisi.png]!]{% endcapture %}
-{% capture imagetitle %}$[![Pizza]!]{% endcapture %}
-<a href="{{ imagesrc }}">{% picture $[![picture]!] {{ imagesrc }} alt="{{ imagetitle }}" title="{{ imagetitle }}" %}</a>
-{: .text-center}
-
+![pizza](http://kayranfatih.github.io/assets/img/pizzaPartisi.png "pizza")
 
 İlk gün izlediğimiz motivasyon videosunu da unutamayız tabi.
 [Neden Düşeriz ?](https://www.youtube.com/watch?v=tjzJRSKuWw8)
